@@ -1,0 +1,78 @@
+{
+  "generated_at_epoch": 0,
+  "sections": [
+    {
+      "title": "Familia",
+      "description": "Momentos y retratos familiares",
+      "items": [
+        {
+          "title": "",
+          "description": "",
+          "image_file": "photos/familia/amor.jpg",
+          "thumbnail_file": "photo_thumbnails/familia/amor.jpg"
+        },
+        {
+          "title": "",
+          "description": "",
+          "image_file": "photos/familia/torres.jpg",
+          "thumbnail_file": "photo_thumbnails/familia/torres.jpg"
+        },
+        {
+          "title": "",
+          "description": "",
+          "image_file": "photos/familia/boda.jpg",
+          "thumbnail_file": "photo_thumbnails/familia/boda.jpg"
+        },
+        {
+	  "title": "",
+	  "description": "",
+	  "image_file": "photos/familia/aitor.jpg",
+	  "thumbnail_file": "photo_thumbnails/familia/aitor.jpg"
+	},
+	{
+	  "title": "",
+	  "description": "",
+	  "image_file": "photos/familia/cristina.jpg",
+	  "thumbnail_file": "photo_thumbnails/familia/cristina.jpg"
+	}
+      ]
+    },
+    {
+      "title": "Naturaleza / Animales",
+      "description": "Paisajes, fauna y naturaleza",
+      "items": [
+        {
+          "title": "",
+          "description": "",
+          "image_file": "photos/naturaleza/pato.jpg",
+          "thumbnail_file": "photo_thumbnails/naturaleza/pato.jpg"
+        },
+        {
+          "title": "",
+          "description": "",
+          "image_file": "photos/naturaleza/gatova.jpg",
+          "thumbnail_file": "photo_thumbnails/naturaleza/gatova.jpg"
+        },
+        {
+          "title": "",
+          "description": "",
+          "image_file": "photos/naturaleza/luna.jpg",
+          "thumbnail_file": "photo_thumbnails/naturaleza/luna.jpg"
+        },
+        {
+	  "title": "",
+	  "description": "",
+	  "image_file": "photos/naturaleza/cielo.jpg",
+	  "thumbnail_file": "photo_thumbnails/naturaleza/cielo.jpg"
+	},
+	{
+	  "title": "",
+	  "description": "",
+	  "image_file": "photos/naturaleza/ventana.jpg",
+	  "thumbnail_file": "photo_thumbnails/naturaleza/ventana.jpg"
+	}
+      ]
+    }
+  ]
+}
+
